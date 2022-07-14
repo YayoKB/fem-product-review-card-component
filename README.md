@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/YayoKB/product-review-card-component)
-- Live Site URL: [Github Pages](https://yayokb.github.io/product-review-card-component/)
+- Solution URL: [Github Repo](https://github.com/YayoKB/fem-product-review-card-component)
+- Live Site URL: [Github Pages](https://yayokb.github.io/fem-product-review-card-component/)
 
 ## My process
 
